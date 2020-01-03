@@ -1,5 +1,5 @@
 
-Learn and rewrite algorithms and data structure using Go.
+Learn algorithms and data structures using Go.
 
 ## Disjoint Set (Union-Find)
 link: [ykhr53/algorithmsWithGo/disjointSet](/disjointSet)
@@ -18,4 +18,4 @@ link: [ykhr53/algorithmsWithGo/topologicalSort](/topologicalSort)
 just run other codes in this dir.  
 - lc210.go  
 LeetCode question **[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)**.  
-In this code, I use Tarjan's DFS approach.
+In this code, I used Tarjan's DFS approach.
