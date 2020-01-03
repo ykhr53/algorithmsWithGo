@@ -14,8 +14,6 @@ func findOrder(numCourses int, prerequisites [][]int) []int {
 	ans = make([]int, 0)
 	loop = false
 
-	//ans := make([]int, numCourses)
-
 	// create adjList
 	for _, pre := range prerequisites {
 		adjList[pre[1]] = append(adjList[pre[1]], pre[0])
