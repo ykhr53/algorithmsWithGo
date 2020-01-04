@@ -1,5 +1,14 @@
-
 Learn algorithms and data structures using Go.
+
+## Basic Sorting Algorithms
+link: [ykhr53/algorithmsWithGo/basicSorting](/basicSorting)
+
+- main.go  
+just run other codes in this dir.  
+- merge.go  
+merge sort with Go.  
+- quick.go  
+quick sort with Go.  
 
 ## Disjoint Set (Union-Find)
 link: [ykhr53/algorithmsWithGo/disjointSet](/disjointSet)
