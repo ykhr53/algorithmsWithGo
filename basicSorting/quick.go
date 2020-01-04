@@ -1,6 +1,6 @@
 package main
 
-// In this code, I'm gonna always take last element as a pivot.
+// In this code, I'm gonna always take tne last element as a pivot.
 func partition(arr []int, left int, right int) int {
 	pivot := arr[right]
 	i := left - 1
