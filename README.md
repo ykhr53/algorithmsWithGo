@@ -9,6 +9,7 @@ just run other codes in this dir.
 merge sort with Go.  
 - quick.go  
 quick sort with Go.  
+from geeksforgeeks https://www.geeksforgeeks.org/quick-sort/  
 
 ## Disjoint Set (Union-Find)
 link: [ykhr53/algorithmsWithGo/disjointSet](/disjointSet)
