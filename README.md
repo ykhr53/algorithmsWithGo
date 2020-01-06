@@ -37,3 +37,5 @@ link: [ykhr53/algorithmsWithGo/dp](/dp)
 just run other codes in this dir.  
 - lc198.go  
 LeetCode question **[198. House Robber](https://leetcode.com/problems/house-robber/)**.  
+- lc494.go  
+LeetCode question **[494. Target Sum](https://leetcode.com/problems/target-sum/)**.  
